@@ -25,8 +25,8 @@ Given two eggs, find the highest floor an egg can be dropped from without breaki
 
 ## Exercise 2: Polygon
 
-Given a set of vertices (3,4,5,...) and edges that somehow form a shape of undetermined word like the one 
+Given a polygon with an arbitrary number of vertices (3,4,5,...) like the one
 pictured below and a point, also pictured below,
-how would you determine if the point lies inside that thing I just said or outside it?
+how would you determine if the point lies inside the polygon or outside the polygon?
 
 ![](assets/polygon_in_out.png)
