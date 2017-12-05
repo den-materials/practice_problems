@@ -3,6 +3,7 @@
 <!-- This should take about 35 minutes total..it took 45, but I think we can do better next time -->
 <!--Took 45 again, I think that's just what it takes -->
 <!--35 minutes for WDI5 -->
+<!--WDI6 9:03, 9:10 devs start working, 9:43 finishing -->
 
 ## Directions
 
